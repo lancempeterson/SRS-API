@@ -1,0 +1,73 @@
+{
+  "user":{
+  "id": 1,
+  "login": "lanceprime",
+  "joinDate": "2012-01-26T13:51:50.417-07:00",
+  "decks": [
+    {
+      "name": "Tango N5",
+      "dateCreated": "2012-01-26T13:51:50.417-07:00",
+      "cardsPerDay": 10,
+      "cards": [
+        {
+          "sentence": "明日、きっと雨が降る。",
+          "dateCreated": "2012-01-26T13:51:50.417-07:00",
+          "dueDate": "2012-01-30T13:51:50.417-07:00",
+          "target": "降る",
+          "bilingualDef": "ふる【降る】 ★★★★★ to precipitate, to fall (e.g. rain)",
+          "monolingualDef": "",
+          "translation": "I'm sure it will rain tomorrow.",
+          "mnenomic": "",
+          "contextURL": "",
+          "isAudioCard": false,
+          "audioURL": "",
+          "tags": [
+            "Tango"
+            ]
+        }
+      ]
+    },
+    {
+      "name": "Tango N4",
+      "dateCreated": "2013-09-27T13:51:50.417-07:00",
+      "cardsPerDay": 10,
+      "cards": [
+        {
+          "sentence": "電子辞書が無くなってしまいました。",
+          "dateCreated": "2013-09-27T13:51:50.417-07:00",
+          "dueDate": "0",
+          "target": "無くなるる",
+          "bilingualDef": "無くなる - to go missing, to be gone",
+          "monolingualDef": "",
+          "translation": "My electronic dictionary is missing.",
+          "mnenomic": "",
+          "contextURL": "",
+          "isAudioCard": true,
+          "audioURL": "",
+          "tags": [
+            "Tango",
+            "N4"
+            ]
+        },
+        {
+          "sentence": "家の周りに桜の木があります。",
+          "dateCreated": "2013-09-27T13:51:50.417-07:00",
+          "dueDate": "1",
+          "target": "周り",
+          "bilingualDef": "周り - around",
+          "monolingualDef": "",
+          "translation": "There are cherry blossoms around the house.",
+          "mnenomic": "",
+          "contextURL": "",
+          "isAudioCard": false,
+          "audioURL": "",
+          "tags": [
+            "Tango",
+            "N4"
+            ]
+        }
+      ]
+    }
+  ]
+}
+}
