@@ -21,6 +21,8 @@
           "contextURL": "",
           "isAudioCard": false,
           "audioURL": "",
+          "passes": 0,
+          "fails": 0,
           "tags": [
             "Tango"
             ]
@@ -44,6 +46,8 @@
           "contextURL": "",
           "isAudioCard": true,
           "audioURL": "",
+          "passes": 0,
+          "fails": 0,
           "tags": [
             "Tango",
             "N4"
@@ -61,6 +65,8 @@
           "contextURL": "",
           "isAudioCard": false,
           "audioURL": "",
+          "passes": 0,
+          "fails": 0,
           "tags": [
             "Tango",
             "N4"
